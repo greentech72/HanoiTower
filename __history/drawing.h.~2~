@@ -1,0 +1,7 @@
+#ifndef DRAWING_H
+#define DRAWING_H
+
+void DR(TCanvas *canv, int pin, int pos, int size);
+void CreatePins(TCanvas *canv);
+
+#endif

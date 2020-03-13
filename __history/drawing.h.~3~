@@ -1,0 +1,10 @@
+#ifndef DRAWING_H
+#define DRAWING_H
+
+template <typename CanvT>
+void DR(CanvT *canv, int pin, int pos, int size);
+
+template <typename CanvT>
+void CreatePins(CanvT *canv);
+
+#endif

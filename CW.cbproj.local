@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/05 16:17:31.000.812,=C:\Users\danya\source\repos\Unit1.cpp</Transaction>
+    <Transaction>2020/02/05 16:17:31.000.726,=C:\Users\danya\source\repos\Project1PCH1.h</Transaction>
+    <Transaction>2020/02/05 16:24:27.000.739,C:\Users\danya\source\repos\Unit1.dfm=C:\Users\danya\source\repos\CW\Unit1.dfm</Transaction>
+    <Transaction>2020/02/05 16:24:27.000.739,C:\Users\danya\source\repos\Unit1.cpp=C:\Users\danya\source\repos\CW\Unit1.cpp</Transaction>
+    <Transaction>2020/02/05 16:24:27.000.739,C:\Users\danya\source\repos\Unit1.h=C:\Users\danya\source\repos\CW\Unit1.h</Transaction>
+    <Transaction>2020/02/05 16:24:33.000.970,C:\Users\danya\source\repos\Project1PCH1.h=C:\Users\danya\source\repos\CW\Project1PCH1.h</Transaction>
+    <Transaction>2020/02/05 16:24:38.000.985,C:\Users\danya\source\repos\CW\Project1PCH1.h=C:\Users\danya\source\repos\CW\CWPCH1.h</Transaction>
+    <Transaction>2020/02/05 16:24:39.000.007,C:\Users\danya\source\repos\Project1.cbproj=C:\Users\danya\source\repos\CW\CW.cbproj</Transaction>
+    <Transaction>2020/02/05 16:24:52.000.762,=C:\Users\danya\source\repos\CW\Unit2.cpp</Transaction>
+    <Transaction>2020/02/05 16:25:29.000.669,=C:\Users\danya\source\repos\CW\New1.cpp</Transaction>
+    <Transaction>2020/02/05 22:39:56.000.965,=C:\Users\danya\source\repos\CW\hanoi_towers.cpp</Transaction>
+    <Transaction>2020/02/05 22:40:25.000.683,=C:\Users\danya\source\repos\CW\hanoi_towers.h</Transaction>
+    <Transaction>2020/02/06 19:53:31.000.619,=C:\Users\danya\source\repos\CW\drawing.cpp</Transaction>
+    <Transaction>2020/02/06 19:53:42.000.556,=C:\Users\danya\source\repos\CW\drawing.h</Transaction>
+    <Transaction>2020/02/06 19:58:40.000.168,C:\Users\danya\source\repos\CW\drawing.cpp=</Transaction>
+    <Transaction>2020/02/06 19:58:40.000.225,C:\Users\danya\source\repos\CW\drawing.h=</Transaction>
+    <Transaction>2020/02/10 14:23:27.000.224,=C:\Users\danya\source\repos\CW\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

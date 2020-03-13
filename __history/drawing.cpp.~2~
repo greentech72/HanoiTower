@@ -1,0 +1,38 @@
+#include "drawing.h"
+
+void DR(TCanvas *canv, int pin, int pos, int size){
+	int x;
+	if(pin == 0)
+		x = 95;
+	else if(pin == 1)
+		x = 268;
+	else
+		x = 440;
+
+	int y = 43 * (8 - pos) + 3 * (8 - pos) / 2 + 10;
+
+	size = (size+1) * 9;
+
+	canv->Rectangle(Rect(x + size, y - 20, x - size, y + 20));
+}
+//---------------------------------------------------------------------------
+void CreatePins(TCanvas *canv){
+	canv->MoveTo(15, 390);
+	canv->LineTo(175, 390);
+
+	canv->MoveTo(185, 390);
+	canv->LineTo(350, 390);
+
+	canv->MoveTo(360, 390);
+	canv->LineTo(520, 390);
+
+	canv->MoveTo(95, 390);
+	canv->LineTo(95, 40);
+
+	canv->MoveTo(267, 390);
+	canv->LineTo(267, 40);
+
+	canv->MoveTo(440, 390);
+	canv->LineTo(440, 40);
+}
+//---------------------------------------------------------------------------
